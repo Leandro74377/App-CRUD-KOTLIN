@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App CRUD KOTLIN</string>
+    <string name="add">Agregar</string>
+    <string name="update">Actualizar</string>
+    <string name="delete">Eliminar</string>
+    <string name="name">Nombre</string>
+    <string name="description">Descripción</string>
+</resources>
